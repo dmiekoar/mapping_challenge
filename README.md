@@ -14,3 +14,7 @@ XXX
 | Anderson da Silva Rodrigues | anderson.rodrigues@sinesp.df.gov.br |       |
 | Laura Ribeiro Fardin        | lauraffardin@gmail.com              |       |
 
+# Referencias
+
+https://github.com/crowdAI/mapping-challenge-starter-kit
+https://github.com/crowdAI/crowdai-mapping-challenge-mask-rcnn.git
