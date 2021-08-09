@@ -9,7 +9,6 @@ XXX
 | Nome                        | E-mail                              | 
 |-----------------------------|-------------------------------------|
 | Daniela Mieko Aragaki       | daniaragaki@gmail.com               |
-| Shermila Guerra Santa Cruz  | shermilaguerra@gmail.com            |
 | Ademir Aparecido Monteiro   | ademir.monteiro@uol.com.br          |
 | Anderson da Silva Rodrigues | anderson.rodrigues@sinesp.df.gov.br |
 | Laura Ribeiro Fardin        | lauraffardin@gmail.com              |
