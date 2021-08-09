@@ -2,7 +2,7 @@
 Este repositorio contem o projeto desevolvido pela turma 4 do Programa de Mentoria entre Alunos da Data Science Academy – Turma 2 - Temporada 2021
 
 # Descricao do problema
-XXX
+XXX - YYY
 
 # Equipe
 
